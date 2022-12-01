@@ -5,6 +5,45 @@ import { OrbitControls } from '@react-three/drei'
 import Box from './Box'
 
 function App() {
+  // extend({ OrbitControls })
+
+  // const Controls = () => {
+  //   const { camera, gl } = useThree()
+  //   const ref = useRef()
+  //   useFrame(() => ref.current.update())
+  //   return (
+  //     <orbitControls
+  //       ref={ref}
+  //       target={[0, 0, 0]}
+  //       enableDamping
+  //       args={[camera, gl.domElement]}
+  //     />
+  //   )
+  // }
+
+  // function Sound({ url }) {
+  //   const sound = useRef()
+  //   const { camera } = useThree()
+  //   const [listener] = useState(() => new THREE.AudioListener())
+  //   const buffer = useLoader(THREE.AudioLoader, url)
+
+  //   useEffect(() => {
+  //     sound.current.setBuffer(buffer)
+  //     sound.current.setRefDistance(1)
+  //     sound.current.setLoop(true)
+  //     sound.current.play()
+  //     camera.add(listener)
+  //     return () => camera.remove(listener)
+  //   }, [])
+  //   return <positionalAudio ref={sound} args={[listener]} />
+  // }
+
+  // function handleClick(event) {
+  //   event.preventDefault()
+  //   const audioCtx = new AudioContext()
+  //   audioCtx.resume()
+  // }
+
   return (
     <>
       <main className="flex items-center justify-center h-screen bg-violet-300	">
