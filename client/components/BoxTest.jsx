@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unknown-property */
 import React, { useRef, useState } from 'react'
-// import { useFrame } from '@react-three/fiber'
+import { useFrame } from '@react-three/fiber'
 import Sound from './Sound'
 
 function BoxTest(props) {
@@ -10,7 +10,7 @@ function BoxTest(props) {
   const [hovered, hover] = useState(false)
   const [clicked, click] = useState(false)
   // Subscribe this component to the render-loop, rotate the mesh every frame
-  // useFrame((state, delta) => (ref.current.rotation.x += delta))
+  useFrame((state, delta) => (ref.current.rotation.x += delta))
   // Return the view, these are regular Threejs elements expressed in JSX
 
   const audioUrl = `./server/public/audio/${props.data.ML_Catalog_Number}.mp3`

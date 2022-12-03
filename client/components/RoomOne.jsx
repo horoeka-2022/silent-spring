@@ -6,7 +6,7 @@ import { fetchBirds } from '../api'
 import BoxTest from './BoxTest'
 import Controls from './Controls'
 
-function List() {
+function RoomOne() {
   const [data, setData] = useState([])
 
   useEffect(() => {
@@ -28,6 +28,8 @@ function List() {
     return [x, y, z]
   }
 
+  const firstThree = data.slice(0, 3)
+
   return (
     <>
       {data.length > 0 ? (
@@ -36,7 +38,7 @@ function List() {
             <ambientLight intensity={0.5} />
             <spotLight position={[10, 10, 10]} angle={0.95} penumbra={1} />
             <pointLight position={[-10, -10, -10]} />
-            {data.map((data) => {
+            {firstThree.map((data) => {
               return (
                 <BoxTest
                   key={data.id}
@@ -54,4 +56,4 @@ function List() {
     </>
   )
 }
-export default List
+export default RoomOne
