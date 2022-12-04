@@ -81,7 +81,7 @@ exports.seed = (knex) => {
           Media_notes: 'NOTES: 10 dB pad engaged on microphone.',
         },
         {
-          Sound_Id: 55394,
+          Sound_Id: 999,
           Common_Name: 'Mallard',
           Scientific_Name: 'Anas platyrhynchos',
           Country: 'New Zealand',
@@ -91,7 +91,7 @@ exports.seed = (knex) => {
             "Michael's Park Pond, Auckland 01/06/18.  A bird calling loudly from rushes as a flock on the pond swam away from me, calling less loudly.  Other species in the background.",
         },
         {
-          Sound_Id: 103092,
+          Sound_Id: 1010,
           Common_Name: 'Black Swan',
           Scientific_Name: 'Cygnus atratus',
           Country: 'New Zealand',
@@ -100,7 +100,7 @@ exports.seed = (knex) => {
           Media_notes: 'Swan call at night on water',
         },
         {
-          Sound_Id: 104124,
+          Sound_Id: 1111,
           Common_Name: 'Morepork',
           Scientific_Name: 'Ninox novaeseelandiae',
           Country: 'New Zealand',
@@ -109,7 +109,7 @@ exports.seed = (knex) => {
           Media_notes: '',
         },
         {
-          Sound_Id: 203926491,
+          Sound_Id: 1212,
           Common_Name: 'New Zealand Fernbird (New Zealand)',
           Scientific_Name: 'Poodytes punctatus [punctatus Group]',
           Country: 'New Zealand',
@@ -119,7 +119,7 @@ exports.seed = (knex) => {
             'Calls by one bird. Elevation: 53 m. Date added to IBC: June 22, 2016.',
         },
         {
-          Sound_Id: 479309141,
+          Sound_Id: 1313,
           Common_Name: 'Swamp Harrier',
           Scientific_Name: 'Circus approximans',
           Country: 'New Zealand',
@@ -129,7 +129,7 @@ exports.seed = (knex) => {
             "Australian Harrier calls from one, possibly two unseen birds in flight near Hay's Creek Reservoir, Papakura 29/08/22",
         },
         {
-          Sound_Id: 190120641,
+          Sound_Id: 1414,
           Common_Name: 'Pied Cormorant',
           Scientific_Name: 'Phalacrocorax varius',
           Country: 'New Zealand',
@@ -139,7 +139,7 @@ exports.seed = (knex) => {
             'Pied Shag colony with active nests, Orakei Basin, Auckland 27/11/19',
         },
         {
-          Sound_Id: 204016071,
+          Sound_Id: 1515,
           Common_Name: 'Little Spotted Kiwi',
           Scientific_Name: 'Apteryx owenii',
           Country: 'New Zealand',
