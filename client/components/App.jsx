@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react'
 import { extend } from '@react-three/fiber'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 import Wait from './Wait'
-import List from './List'
+import RoomOne from './RoomOne'
+import { Route, Routes } from 'react-router-dom'
 
 function App() {
   const [isPlaying, setIsPlaying] = useState(false)
@@ -37,7 +38,7 @@ function App() {
 
   return (
     <>
-      <div className="mainDiv">{isPlaying ? <List /> : <Wait />}</div>
+      <div className="mainDiv">{isPlaying ? <RoomOne /> : <Wait />}</div>
     </>
   )
 }
