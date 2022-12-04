@@ -13,7 +13,7 @@ function BoxTest(props) {
   // useFrame((state, delta) => (ref.current.rotation.x += delta))
   // Return the view, these are regular Threejs elements expressed in JSX
 
-  const audioUrl = `./server/public/audio/${props.data.ML_Catalog_Number}.mp3`
+  const audioUrl = `./server/public/audio/${props.data.Sound_Id}.mp3`
   console.log(audioUrl)
 
   return (

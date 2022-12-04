@@ -4,7 +4,7 @@ exports.seed = (knex) => {
     .then(() => {
       return knex('birds').insert([
         {
-          ML_Catalog_Number: 212043711,
+          Sound_Id: 111,
           Common_Name: 'South Island Takahe',
           Scientific_Name: 'Porphyrio hochstetteri',
           Country: 'New Zealand',
@@ -13,7 +13,7 @@ exports.seed = (knex) => {
           Media_notes: '',
         },
         {
-          ML_Catalog_Number: 203926781,
+          Sound_Id: 222,
           Common_Name: "Parkinson's Petrel",
           Scientific_Name: 'Procellaria parkinsoni',
           Country: 'New Zealand',
@@ -23,7 +23,7 @@ exports.seed = (knex) => {
             'Calls by a group of birds while feeding on chum. Recorded from a ship. Elevation: 0 m. Date added to IBC: June 22, 2016.',
         },
         {
-          ML_Catalog_Number: 203926471,
+          Sound_Id: 333,
           Common_Name: 'Brown Teal',
           Scientific_Name: 'Anas chlorotis',
           Country: 'New Zealand',
@@ -33,7 +33,7 @@ exports.seed = (knex) => {
             'Calls by one bird. Elevation: 53 m. Date added to IBC: June 22, 2016.',
         },
         {
-          ML_Catalog_Number: 203926621,
+          Sound_Id: 444,
           Common_Name: 'Stitchbird',
           Scientific_Name: 'Notiomystis cincta',
           Country: 'New Zealand',
@@ -43,7 +43,7 @@ exports.seed = (knex) => {
             'A female calling. Elevation: 53 m. Date added to IBC: June 22, 2016.',
         },
         {
-          ML_Catalog_Number: 203926751,
+          Sound_Id: 555,
           Common_Name: 'Australasian Swamphen',
           Scientific_Name: 'Porphyrio melanotus',
           Country: 'New Zealand',
@@ -53,7 +53,7 @@ exports.seed = (knex) => {
             'A bird calling. Elevation: 53 m. Date added to IBC: June 22, 2016.',
         },
         {
-          ML_Catalog_Number: 285324401,
+          Sound_Id: 666,
           Common_Name: 'North Island Saddleback',
           Scientific_Name: 'Philesturnus rufusater',
           Country: 'New Zealand',
@@ -62,7 +62,7 @@ exports.seed = (knex) => {
           Media_notes: '',
         },
         {
-          ML_Catalog_Number: 204016011,
+          Sound_Id: 777,
           Common_Name: 'Whitehead',
           Scientific_Name: 'Mohoua albicilla',
           Country: 'New Zealand',
@@ -72,7 +72,7 @@ exports.seed = (knex) => {
             'Several birds calling from bushes. Elevation: 53 m. Date added to IBC: June 22, 2016.',
         },
         {
-          ML_Catalog_Number: 203926551,
+          Sound_Id: 888,
           Common_Name: 'New Zealand Bellbird',
           Scientific_Name: 'Anthornis melanura',
           Country: 'New Zealand',
@@ -81,7 +81,7 @@ exports.seed = (knex) => {
           Media_notes: 'NOTES: 10 dB pad engaged on microphone.',
         },
         {
-          ML_Catalog_Number: 102811801,
+          Sound_Id: 55394,
           Common_Name: 'Mallard',
           Scientific_Name: 'Anas platyrhynchos',
           Country: 'New Zealand',
@@ -91,7 +91,7 @@ exports.seed = (knex) => {
             "Michael's Park Pond, Auckland 01/06/18.  A bird calling loudly from rushes as a flock on the pond swam away from me, calling less loudly.  Other species in the background.",
         },
         {
-          ML_Catalog_Number: 343910621,
+          Sound_Id: 103092,
           Common_Name: 'Black Swan',
           Scientific_Name: 'Cygnus atratus',
           Country: 'New Zealand',
@@ -100,7 +100,7 @@ exports.seed = (knex) => {
           Media_notes: 'Swan call at night on water',
         },
         {
-          ML_Catalog_Number: 380864781,
+          Sound_Id: 104124,
           Common_Name: 'Morepork',
           Scientific_Name: 'Ninox novaeseelandiae',
           Country: 'New Zealand',
@@ -109,7 +109,7 @@ exports.seed = (knex) => {
           Media_notes: '',
         },
         {
-          ML_Catalog_Number: 203926491,
+          Sound_Id: 203926491,
           Common_Name: 'New Zealand Fernbird (New Zealand)',
           Scientific_Name: 'Poodytes punctatus [punctatus Group]',
           Country: 'New Zealand',
@@ -119,7 +119,7 @@ exports.seed = (knex) => {
             'Calls by one bird. Elevation: 53 m. Date added to IBC: June 22, 2016.',
         },
         {
-          ML_Catalog_Number: 479309141,
+          Sound_Id: 479309141,
           Common_Name: 'Swamp Harrier',
           Scientific_Name: 'Circus approximans',
           Country: 'New Zealand',
@@ -129,7 +129,7 @@ exports.seed = (knex) => {
             "Australian Harrier calls from one, possibly two unseen birds in flight near Hay's Creek Reservoir, Papakura 29/08/22",
         },
         {
-          ML_Catalog_Number: 190120641,
+          Sound_Id: 190120641,
           Common_Name: 'Pied Cormorant',
           Scientific_Name: 'Phalacrocorax varius',
           Country: 'New Zealand',
@@ -139,7 +139,7 @@ exports.seed = (knex) => {
             'Pied Shag colony with active nests, Orakei Basin, Auckland 27/11/19',
         },
         {
-          ML_Catalog_Number: 204016071,
+          Sound_Id: 204016071,
           Common_Name: 'Little Spotted Kiwi',
           Scientific_Name: 'Apteryx owenii',
           Country: 'New Zealand',

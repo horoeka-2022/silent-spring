@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>YouTube to Mp3 Music Converter - YTMP3</title>
+    <meta name="robots" content="index,follow" />
+    <meta name="applicable-device" content="pc,mobile" />
+    <meta
+      name="keywords"
+      content="youtube,mp3,converter,downloader,free,mp4,online"
+    />
+    <meta name="description" content="YTMP3 is free YouTube to mp3 converter. It helps you convert and download youtube videos to mp3 or mp4 files for free. YTMP3 is the best Youtube mp3 downloader." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#0087cf">
+    
+    <link rel="canonical" href="https://ytmp3.cc/c552c/" />
+    
+    
+    <link rel="alternate" href="https://ytmp3.cc/c552c/" hreflang="en">
+    <link rel="alternate" href="https://ytmp3.cc/es66f0f/" hreflang="es">
+    <link rel="alternate" href="https://ytmp3.cc/pt66f0f/" hreflang="pt">
+    <link rel="alternate" href="https://ytmp3.cc/id66f0f/" hreflang="id">
+    <link rel="alternate" href="https://ytmp3.cc/ar66f0f/" hreflang="ar">
+    <link rel="alternate" href="https://ytmp3.cc/tr66f0f/" hreflang="tr">
+    <link rel="alternate" href="https://ytmp3.cc/fr66f0f/" hreflang="fr">
+    
+    <link rel="stylesheet" href="/css/a/l.css" />
+    <link rel="stylesheet" href="/css/loader.css" />
+    <link rel="stylesheet" href="/css/share.css" />
+    <script src="https://kit.fontawesome.com/04c6e2c723.js" crossorigin="anonymous"></script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-XMQD8NKLPN"
+    ></script>
+    <script>
+      // Initialize the agent at application startup.
+      var fpPromise = import('https://openfpcdn.io/fingerprintjs/v3')
+        .then(FingerprintJS => FingerprintJS.load())
+    </script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-XMQD8NKLPN");
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+    <div id="nav" style="display: flex;align-items:center">
+      <a href="/c552c/" style="flex:1;">YTMP3</a>
+      <a id="theme" href="/d" rel="nofollow"
+        >Theme [Dark]</a
+      >
+      <a href="https://www.mp3juices.cc/" style="flex:1;" rel="dofollow">Mp3 Juice</a>
+      <div class="nav-dropdown pc" style="flex:1;" id="nav-source">
+        <span class="red-spot">Source ▼</span>
+        <div class="dropdown-content" id="nav-dropdown">
+          <a id="top-youtubers" href="/tiktok-downloadernujn0/" class="red-spot"
+            >TikTok Downloader</a
+          >
+          
+            <a href="/youtube-converternujn0/">YouTube Converter</a>
+            <a href="/youtube-downloadernujn0/">YouTube Downloader</a>
+            <a href="/yt-to-mp3nujn0/">YT to mp3</a>
+          
+          <a href="https://320ytdownload.com/">Music Converter</a>
+          <a href="https://happymod.io/">Happymod</a>
+          <a href="https://whatsapp-gb.com/">GBWhatsApp</a>
+          <a href="https://whatsapp-plus.news/es/whatsappplus-es/">WhatsAppPlus</a>
+          <a href="https://vidmateapp.cc/">VidMate</a>
+          <a href="https://jojoy.io/">Jojoy</a>
+          <a href="https://en.ytmp3.group/">YT MP3</a>
+          <a href="https://www.mp3juice.zone/" rel="dofollow">Mp3 Juice</a>
+          <a href="https://ytmp3.ltd/">YTMP3</a>
+          <a href="https://ytmp3.bet">YTMP3</a>
+        </div>
+      </div>
+      <div class="nav-dropdown" style="flex:1;">
+        <span class="pc">Language▼</span>
+        <span class="mobile">en▼</span>
+        <div class="dropdown-content">
+          <a href="/en">English</a>
+          <a href="/es">Español</a>
+          <a href="/pt">Português</a>
+          <a href="https://ytmp3.ltd">Indonesia</a>
+          <a href="/ar">العربية</a>
+          <a href="/tr">Türkçe</a>
+          <a href="/fr">France</a>
+        </div>
+      </div>
+      <div id="bookmark" style="display: none;">
+        <img src="/images/drag.png" width="50" alt="">
+        <a class="bookmarklet" href="
+        javascript:(function(){
+          if (/youtube|youtu.be/.test(location.href)) {
+            open('https://ytmp3.cc/'+window.location.href+'&amp;utm_source=bookmarklet');
+          } else {
+            alert('This button is designed to work from your bookmarks. Simply drag and drop it to your browser\'s Bookmarks Section (press CTRL+SHIFT+B in chrome to show/hide bookmarks bar) to see how it operates. Try it as bookmark, you will see what I mean..');
+          }
+        })();">
+          Youtube Convert
+        </a>
+        <img src="/images/arrow_white.png" alt="">
+      </div>
+    </div>
+    <div id="content">
+      <a href="/c552c/"
+        ><img id="logo" width="194" height="61" src="/images/l.png" alt=""
+      /></a>
+      <a id="vanced" href="https://cdn5.trafficad-biz.com/vanced/Vanced_v4.0.0_vanced.apk" style="font-size: 14px;color:#0087cf;text-decoration: none;">
+        <strong><span style="text-decoration: underline;">👉Download Vanced Tube APP</span> - Support Youtube Downloading, Ad Blocking, and Background Playback. </strong>
+      </a>
+       
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script>
+<!-- <a id="download-button" href="" rel="noreferrer" target="_blank">
+  <img src="/images/ytmp3down.png" />
+</a> -->
+
+<div id="converter_wrapper">
+  <div id="converter" >
+    
+    <div id="advise">Search keywords or paste link here</div>
+    
+    <form method="post" onsubmit="return false">
+      <input id="input" type="text" name="video" autocomplete="off"  />
+      <input id="submit" type="submit" value="Convert" />
+      <div id="suggestions"></div>
+    </form>
+    <div id="progress">
+      <span>initialize</span>
+      <div class="lds-hourglass"></div>
+    </div>
+    
+    <div id="buttons">
+      <a id="download" href="" rel="nofollow">Download</a>
+      <span id="download_pc">Download</span>
+      <a id="withApp" href="">320K-Mp3 with APP</a>
+      <a id="more_format">More Format</a>
+      <a id="play_btn">Play</a>
+      <a>Dropbox</a>
+      <a>Convert next</a>
+      <div id="download_list">
+        <div>MP3 64kbps</div>
+        <div>MP3 128kbps</div>
+        <div>MP3 192kbps</div>
+        <div>MP3 320kbps</div>
+        <br/>
+        <div>MP4 360p</div>
+        <div>MP4 480p</div>
+        <div>MP4 720p</div>
+        <div>MP4 1080p</div>
+      </div>
+    </div>
+    
+    
+    <div id="advise2">Please note that both keywords and links are supported now</div>
+    
+    <div
+      id="advise3"
+      style="display: none; line-height: 1.6; height: fit-content"
+    >
+      Please note that :<br />MP3&MP4 downloading is valid for PC users<br />MP3
+      downloading is valid for Mobile users
+    </div>
+    <div id="formats-download" style="display: none;">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Quality</th>
+            <th>Download Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>MP3 64kbps</td>
+            <td>
+              <div class="table-download" data-type="4">Download</div>
+            </td>
+          </tr>
+          <tr>
+            <td>MP3 128kbps</td>
+            <td>
+              <div class="table-download" data-type="3">Download</div>
+            </td>
+          </tr>
+          <tr>
+            <td>MP3 192kbps</td>
+            <td>
+              <div class="table-download" data-type="2">Download</div>
+            </td>
+          </tr>
+          <tr>
+            <td>MP3 320kbps</td>
+            <td>
+              <div class="table-download" data-type="1">Download</div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div id="formats" >
+    <a id="mp3" href="">mp3</a>
+    <a id="mp4" href="">mp4</a>
+    <a id="off-line" href="" style="display: none;">YTMP3 APP</a>
+  </div>
+  <div class="a-inner">
+    <div class="a-inner-container">
+      <div class="a-inner-carousel"></div>
+      <img
+        class="a-inner-tag"
+        src="/images/ic_ad_tag_g.png"
+        alt="advertising icon"
+      />
+      <img
+        class="a-inner-info"
+        src="/images/ic_info_tag.png"
+        alt="advertising info"
+      />
+    </div>
+  </div>
+  <div id="spin" style="display: none;">
+    <div class="circle">
+      <div class="circle-wrapper">
+        <div class="quarter-circle"></div>
+      </div></div>
+    <span>Downloading...</span>
+  </div>
+</div>
+
+<div
+  id="a-320-50"
+  style="
+    width: 320px;
+    height: 50px;
+    margin: 10px auto 0;
+    display: none;
+    color: #ffffff;
+  "
+></div>
+
+<div class="guidance-text">
+  <img src="/images/fast-down.jpeg" width="300" height="220" alt="">
+  <div>
+    <p class="guidance-title" style="margin-top: 10px;">🌟 YTMP3 Quick Download is Online!</p>
+    <p class="guidance-content" style="margin-bottom: 2em;">Insert "<span style="color: #0087cf; font-weight: 900;">ccc</span>" after the word "youtube"or "youtu" in the link to download videos and mp3 files from YouTube as a faster way. 
+      <br/><br/>Example: 
+      <br/>https://youtube<span style="color: #0087cf; font-weight: 900;">ccc</span>.com/watch?v=u7deClndzQw
+      <br/>https://youtu<span style="color: #0087cf; font-weight: 900;">ccc</span>.be/-wtIMTCHWuI 
+      <br/>https://m.youtube<span style="color: #0087cf; font-weight: 900;">ccc</span>.com/watch?v=RiJ172JBfrA
+      <br/><span style="color: #0087cf; font-weight: 900;">ytmp3.cc</span>/http://youtube.com/watch?v=u7deClndzQw</p>
+  </div>
+</div>
+<div class="guidance-text guidance-text2">
+  <div style="width:320px">
+    <p class="guidance-title">🌟  Use YTMP3 browser bookmark for quicker mp3 downloads</p>
+    <a class="bookmarklet" href="
+    javascript:(function(){
+      if (/youtube|youtu.be/.test(location.href)) {
+        open('https://ytmp3.cc/'+window.location.href+'&amp;utm_source=bookmarklet');
+      } else {
+        alert('This button is designed to work from your bookmarks. Simply drag and drop it to your browser\'s Bookmarks Section (press CTRL+SHIFT+B in chrome to show/hide bookmarks bar) to see how it operates. Try it as bookmark, you will see what I mean..');
+      }
+    })();">
+      Youtube Convert
+    </a>
+    <p class="guidance-content"><span style="color: #0087cf; font-weight: 900;">Drag</span> this button to your bookmarks bar, and later when you're browsing on a video or music that you want to download, you just click the bookmark.</p>
+  </div>
+  <img id="bookmarklet-img" src="/images/bookmarklet.jpeg" alt="" style="max-width:460px">
+</div>
+
+<div id="separator" class="first-separator"></div>
+
+<div class="follow-btns" style="display: none;">
+  <div>Follow us on<br/>Telegram and Instagram</div>
+  <div>
+    <a id="telegram" href="https://t.me/+S4qUiS56hhViMjk1" rel="noreferrer">
+      <img src="/images/telegram.png">
+    </a>
+    <a id="instagram" href="instagram://user?username=ytmp3official" rel="noreferrer">
+      <img src="/images/instagram.png">
+    </a>
+  </div>
+</div>
+
+<div id="text">
+  
+  
+  <h1>Free YouTube to Mp3 Converter - YTMP3</h1>
+  
+  <p>If you need a YouTube to mp3 tool, then you must need Ytmp3. If you need a YouTube to mp4 tool, then you must use Ytmp3. If you need an mp3 downloader, then you must not miss Ytmp3. If you are TikTok carriers, then Ytmp3 must be your best choice. Ytmp3 is a best assistant for mp3/mp4 download.</p>
+  
+  
+  
+  
+  <p>YTMP3.cc is a popular youtube to mp3 website. It has a history of decades. In the course of ten years of development, it has won the favor of countless users, and also provides a lot of youtube mp3 and mp4 music services for everyone, so many users spontaneously to promote ytmp3, thank you for your love, and we will continue to optimize our functions to provide you with better mp3 download functions. During the development of YTMP3, there have been many imitators of YTMP3. Please look for YTMP3.cc, which is the official website of YTMP3.</p>
+  
+  
+  
+  <h2>YTMP3 - Youtube to Mp3</h2>
+  
+  
+  
+  <p>Welcome to the popular and free YouTube to mp3 and music search engine and tools. In Ytmp3 you just enter your search query or YouTube URL and click the &#34;Convert&#34; button. It only takes a short time to search and you can easily get Mp3 or Mp4. In order to ensure your experience, we have adopted excellent downloading technology to facilitate you to quickly and easily obtain YouTube mp3. It&#39;s that simple!</p>
+  
+  
+  
+  <p>Ytmp3 has been a YouTube to mp3 tool for 10 years. You can easily get all the YouTube mp3 or mp4 you need at Ytmp3. If you have any doubts about Ytmp3, you can get in touch with us, we will be the first time Reply to you and answer your questions.</p>
+  
+  
+  
+  <h2>How to use Youtube to Mp3 YTMP3?</h2>
+  
+  
+  
+  <p>1. Select the file format you want to download, you can download mp3 or mp4, Ytmp3 downloads mp3 files by default.</p>
+  
+  
+  
+  <p><img src="https://ytmp3.run/config/images/home1.png" alt="" loading="lazy"></p>
+  
+  
+  
+  <p>2. Search the song name/Youtube URL in the search box and click the Convert button. At this time, you will see a list of search results below the search box. You can choose to play it directly, or click Download.</p>
+  
+  
+  
+  <p><img src="https://ytmp3.run/config/images/home2.png" alt="" loading="lazy"></p>
+  
+  
+  
+  <p>3. After clicking the download button, you will find that the original search box has become the download button. At this time, you need to continue to click the download button in the search box. This will give you the mp3 or mp4 file you want to download.</p>
+  
+  
+  
+  <p><img src="https://ytmp3.run/config/images/home3.png" alt="" loading="lazy"></p>
+  
+  
+  
+  <p><img src="https://ytmp3.run/config/images/home4.jpg" alt="" loading="lazy"></p>
+  
+  
+  
+  <h2>YTMP3 - Youtube Downloader</h2>
+  
+  
+  
+  <p>YTMP3 is an mp3 download site and a free search engine for searching the web for MP3 audio files. Download your favorite songs in mp3 format or video by entering a search term in the YTMP3 search box or a Youtube link. So YTMP3 has many functions, such as song search, song download, ad-free playback of YouTube videos, and downloading Tiktok videos without watermarking.</p>
+  
+  
+  
+  <p>The use of YTMP3 is also very simple, insert the link into the search bar and click the convert button. The conversion begins and the audio file will be ready to download within a few minutes. The conversion process starts, and YTMP3 downloader provides high-quality mp3 music for download for free. The most attractive aspect of Mp3 downloader software is that it does not require you to install any app or software on your device.</p>
+  
+  
+  
+  <p>Many people will ask where is the youtube link. If you open youtube on a computer, just copy the link in your browser. If it is a Youtube app, click the [share] button below any video, the first option in it is [copy link], click [copy link] to the search box of ytmp3, and you can download the corresponding mp3 or mp4.</p>
+  
+  
+  
+  <p>As a YouTube Downloader, Ytmp3 has been collected and used by more and more people. It can support YouTube to MP3 and YouTube to MP4. People use Ytmp3 most to download YouTube MP3. Ytmp3 makes it easy for many users to download music. We also hope that more and more people can support Ytmp3. At Ytmp3, if you have any questions, you can contact us. If you have any questions about the use, you can refer to the following contents.</p>
+  
+  
+  
+  <h2>Explanation for YTMP3 virus:</h2>
+  
+  
+  
+  <p>We have seen many users say that YTMP3 has viruses. Before, YTMP3 added some advertisements to cause trouble to users. Now we have removed these advertisements that disturb users, so YTMP3 is safe.</p>
+  
+  
+  
+  <p>For YTMP3, you can use it with confidence, because YTMP3 has a history of 10 years, it is the earliest tool to do Youtube to Mp3, so you can see many users spontaneously recommending YTMP3 on Youtube/Twitter/Facebook. Of course, with the improvement of everyone&#39;s awareness of Internet security, we pay more and more attention to privacy and data security. Now we guarantee that YTMP3 is safe and secure, because YTMP3&#39;s Music conversion service is clean and safe, free of viruses.</p>
+  
+  
+  
+  <p>Because YTMP3 is a free tool, the operation and service cost of our website is very high. In order to ensure that we can recover this part of the operation cost, we have added advertisements on the website, so please include some advertisements of YTMP3.</p>
+  
+  
+  
+  <h2>YTMP3 - Best Youtube mp3 converter and downloader</h2>
+  
+  
+  
+  <p>Ytmp3 is specifically designed to save Youtube video on your android smartphone. Just install it and save any video to your device in just one click from the youtube app or from the ytmp3.cc app dashboard.</p>
+  
+  
+  
+  <h2>YTMP3 - Faster MP3 download speed</h2>
+  
+  
+  
+  <p>YTMP3.cc is a ten-year-old YouTube download and convert tool that provides music download services to millions of users daily. In order to provide users with a better music download experience, we have recently increased the speed of video downloads. I believe users who use YTMP3 will have a more intuitive experience. After entering the Youtube link, it only takes three seconds and you can download the corresponding MP3 file.</p>
+  
+  
+  
+  <p>The MP3 download speed of YTMP3 has been increased from 3 minutes to within 5 seconds. This speed optimization is a qualitative leap. It is believed that this 300% download speed increase will make users more trusting in YTMP3 and more willing to use our website.</p>
+  
+  
+  
+  <p>Some users must be wondering how YTMP3 can quickly increase the download speed of MP3. That is because YTMP3 has optimized the download link of Youtube in the past month, upgraded the server, and can quickly connect the Youtube link and download broadband.</p>
+  
+  
+  <p>Ytmp3 has been receiving DMCA warnings, and it has become more and more frequent during this period. In order to allow users to continue to use Ytmp3, users of Ytmp3 need to bookmark the Ytmp3 website in case they get lost. And if you can share ytmp3 with your friends, or post it on your Facebook, Ins, Twitter, it will be a great help to us. Ytmp3 wants to bring you the best service.</p>
+  <p>Daily Proverb : Well begun is half done.</p>
+  
+</div>
+
+<script
+  type="text/javascript"
+  src="https://www.dropbox.com/static/api/2/dropins.js"
+  id="dropboxjs"
+  data-app-key="onc2svas35ec4qz"
+  async="async"
+></script>
+
+
+    </div>
+    <div id="footer">
+      <div class="link-content">
+        <a href="/terms-of-use/">Terms of use</a>
+        <a href="/faq/" class="pc">FAQ</a>
+        <div class="footer-dropdown">
+          <span>Features ▲</span>
+          <div class="dropdown-content">
+            <a href="/copyright-claims/">Copyright Claims</a>
+            <a href="/privacy-policy/">Privacy Policy</a>
+            <a href="/news/">News</a>
+            <a class="mobile" href="/faq/">FAQ</a>
+          </div>
+        </div>
+        <div class="footer-dropdown">
+          <span>Alternative ▲</span>
+          <div class="dropdown-content">
+            <a href="https://vidmateapp.cc/" rel="dofollow">Vidmate</a>
+            <a href="https://320ytdownload.com/" rel="dofollow">320Ytmp3</a>
+            <a href="https://wvw.mp3juices.zone/">Mp3 Juice</a>
+            <a href="/savefromnujn0/">SaveFrom</a>
+            <a href="https://y2mate.guru/y2mate1">Y2mate</a>
+          </div>
+        </div>
+        <div class="footer-dropdown mobile" >
+          <span>Source ▲</span>
+          <div class="dropdown-content">
+            <a id="top-youtubers" href="/tiktok-downloadernujn0/" class="red-spot"
+              >TikTok Downloader</a
+            >
+            
+            <a href="/youtube-converternujn0/">YouTube Converter</a>
+            <a href="/youtube-downloadernujn0/">YouTube Downloader</a>
+            <a href="/yt-to-mp3nujn0/">YT to mp3</a>
+            
+            <a href="https://320ytdownload.com/">Music Converter</a>
+            <a href="https://happymod.io/">Happymod</a>
+            <a href="https://whatsapp-gb.com/">GBWhatsApp</a>
+            <a href="https://whatsapp-plus.news/es/whatsappplus-es/">WhatsAppPlus</a>
+            <a href="https://vidmateapp.cc/">VidMate</a>
+            <a href="https://jojoy.io/">Jojoy</a>
+            <a href="https://en.ytmp3.group/">YT MP3</a>
+            <a href="https://www.mp3juice.zone/">Mp3 Juice</a>
+            <a href="https://ytmp3.ltd/">YTMP3</a>
+            <a href="https://ytmp3.bet">YTMP3</a>
+          </div>
+        </div>
+      </div>
+      <div class="support-email">support@ytmp3.cc</div>
+      <div id="share" class="shareButtons">
+        <div class="shareCount">
+          <div class="countInfo">
+            <span class="count">197k</span>
+            <span class="shares">Shares</span>
+          </div>
+        </div>
+        <div class="social_share" data-type="fb"><i class="fa-brands fa-facebook-f"></i><span>Facebook</span></div>
+        <div class="social_share" data-type="twitter"><i class="fa-brands fa-twitter"></i><span>Twitter</span></div>
+        <div class="social_share" data-type="linkedin"><i class="fa-brands fa-linkedin-in"></i><span>Linkedin</span></div>
+        <div class="moreShare"><i class="fa fa-share-alt"></i><span>Share</span></div>
+        <div class="social_share" data-type="telegram"><i class="fa-solid fa-paper-plane"></i><span>Telegram</span></div>
+        <div class="social_share" data-type="whatsapp"><i class="fa-brands fa-whatsapp"></i><span>Whatsapp</span></div>
+      </div>
+      <div class="moreShareBtns">
+        <div class="moreBtns">
+          <div class="social_share" data-type="email"><i class="fa-solid fa-envelope"></i><span>Email</span></div>
+          <div class="social_share" data-type="line"><i class="fa-brands fa-line"></i><span>Line</span></div>
+          <div class="social_share" data-type="vk"><i class="fa-brands fa-vk"></i><span>VK</span></div>
+          <div class="social_share" data-type="reddit"><i class="fa-brands fa-reddit-alien"></i><span>Reddit</span></div>
+          <div class="social_share" data-type="tumblr"><i class="fa-brands fa-tumblr"></i><span>Tumblr</span></div>
+          <div class="social_share" data-type="weibo"><i class="fa-brands fa-weibo"></i><span>Weibo</span></div>
+        </div>
+        <div class="moreShareClose"></div>
+      </div>
+    </div>
+    <script>
+      var coreUrlPrefix = 'https://ytpp3.com'
+      var source_url = "False" === 'True' ? `${location.pathname}${location.search}`.slice(1) : '';
+      window.appUrl = Math.random() > 0.5 ? " https://cdn5.trafficad-biz.com/ytmp3/YTMp3_YTMP3_v4.4.0.apk" : "https://cdn5.trafficad-biz.com/ytmp3/YTMp3_YTMP3_v4.4.1.apk";
+      window.appWebUrl = "https://cdn5.trafficad-biz.com/ytmp3web/YTMp3_YTMP3WEB_v4.4.1.apk";
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/zepto@1.2.0/dist/zepto.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fetch-polyfill@0.8.2/fetch.min.js"></script>
+    <script src="/js/download.js"></script>
+    <script>
+      // Get the visitor identifier when you need it.
+      fpPromise
+        .then(fp => fp.get())
+        .then(result => {
+          // This is the visitor identifier:
+          window.uuid = result.visitorId
+          $.ajaxSettings.headers = {uuid: result.visitorId};
+          $.get(coreUrlPrefix + "/report/event", {event: 'pageView', webSite:'ytmp3'});
+        })
+    </script>
+    <script>
+      $.ajax({
+        type: "GET",
+        url: "https://ads-website.ytsservice.com/ads/address/country",
+        dataType: "json",
+        success: function (r) {
+          window.YTMP3country = r && r.data && r.data.country;
+        }
+      })
+      function isMobile() {
+        if (
+          window.navigator.userAgent.match(
+            /(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i
+          )
+        ) {
+          return true; // 移动端
+        } else {
+          return false; // PC端
+        }
+      }
+      window.ismobile = isMobile();
+      window.isAndroid = window.ismobile && !/(iPhone|iPod|ios|iPad)/i.test(window.navigator.userAgent);
+    </script>
+    <script src="/js/trace.js"></script>
+    <script src="/js/ytmp3.js?v=3"></script>
+    <script src="/js/inner.js?v=1"></script>
+    <script src="/js/jsshare.js"></script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "SoftwareApplication",
+        "name": "YTMP3",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.54",
+          "ratingCount": "28293",
+          "reviewCount": "28293",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "applicationCategory": "MultimediaApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0.0",
+          "priceCurrency": "USD"
+        },
+        "operatingSystem": "Windows, macOS, Android,  iOS",
+        "description": "YTMP3 is free YouTube to mp3 converter. It helps you convert and download youtube videos to mp3 or mp4 files for free. YTMP3 is the best Youtube mp3 downloader.",
+        "image": "https://ytmp3.run/config/images/home4.jpg"
+      }
+      </script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var shareItems = document.querySelectorAll('.social_share');
+        var isIOS = /iPad|iPhone|iPod/.test(navigator.platform)
+          || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+        var isAndroid = /(android)/i.test(navigator.userAgent);
+        var options = {};
+        if (isIOS || isAndroid) {
+          options.link_telegram = 'tg://msg';
+          options.link_whatsapp = 'whatsapp://send';
+        }
+        for (var i = 0; i < shareItems.length; i += 1) {
+          shareItems[i].addEventListener('click', function share(e) {
+            return JSShare.go(this, options);
+          });
+        }
+        $('.moreShare').click(()=>{
+          $('.moreShareBtns').show()
+        })
+        $('.moreShareClose').click(()=>{
+          $('.moreShareBtns').hide()
+        })
+      });
+    </script>
+    
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+      (function (m, e, t, r, i, k, a) {
+        m[i] =
+          m[i] ||
+          function () {
+            (m[i].a = m[i].a || []).push(arguments);
+          };
+        m[i].l = 1 * new Date();
+        (k = e.createElement(t)),
+          (a = e.getElementsByTagName(t)[0]),
+          (k.async = 1),
+          (k.src = r),
+          a.parentNode.insertBefore(k, a);
+      })(
+        window,
+        document,
+        "script",
+        "https://mc.yandex.ru/metrika/tag.js",
+        "ym"
+      );
+
+      ym(85320316, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+      });
+    </script>
+    <noscript>
+      <div>
+        <img
+          src="https://mc.yandex.ru/watch/85320316"
+          style="position: absolute; left: -9999px"
+          alt=""
+        />
+      </div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-FJPPKX03DF"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-FJPPKX03DF");
+    </script>
+  </body>
+</html>
