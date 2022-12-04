@@ -1,9 +1,9 @@
 /* eslint-disable react/no-unknown-property */
 import React, { useEffect, useState, Suspense } from 'react'
 import { Canvas } from '@react-three/fiber'
-import { fetchBirds } from '../api'
+import fetchBirds from '../api'
 
-import BoxTest from './BoxTest'
+import Bird from './Bird'
 import Controls from './Controls'
 
 function List() {
@@ -38,11 +38,7 @@ function List() {
             <pointLight position={[-10, -10, -10]} />
             {data.map((data) => {
               return (
-                <BoxTest
-                  key={data.id}
-                  position={getRandomCoords()}
-                  data={data}
-                />
+                <Bird key={data.id} position={getRandomCoords()} data={data} />
               )
             })}
             <Controls />

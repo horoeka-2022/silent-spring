@@ -1,13 +1,15 @@
 import React from 'react'
-import { screen, render } from '@testing-library/react'
+import { screen, render, fireEvent } from '@testing-library/react'
+
 import App from './App'
 
-// this test does not work
-
-test('App div should contain handleStart function', async () => {
+test('On initial App component render, Wait component should be displayed', () => {
   render(<App />)
+  expect(screen.getByText('This is Silent Spring')).toBeInTheDocument()
+})
 
-  const appDiv = await screen.getByRole('div')
-
-  expect(appDiv).toContain('handleStart')
+test('When the user presses enter, List component should be displayed', () => {
+  render(<App />)
+  fireEvent.keyDown(screen, { key: 'Enter', code: 'Enter' })
+  expect(screen.getByText('This is Silent Spring')).not.toBeInTheDocument()
 })
