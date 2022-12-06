@@ -7,7 +7,7 @@ body,
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image:url('./audio/Skylayerd.jpg')
+  background-image:url('./audio/Waves\,\ moss\,\ kawakawa.jpg')
 
 }
 
@@ -26,12 +26,12 @@ body {
   font-family: 'Noticia Text', serif;
   color: rgb(184, 147, 219);
   text-align: center;
-  background-color: rgba(138, 117, 173, 0.5);
+  background-color: rgba(234, 203, 119, 0.5);
 }
 
 .info {
   font-family: 'Noticia Text', serif;
-  color: rgb(184, 147, 219);
+  color: rgb(152, 236, 152);
   font-size: 200px;
 }
 
