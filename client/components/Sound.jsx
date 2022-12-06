@@ -8,7 +8,7 @@ function Sound({ url, visible, volAdjust }) {
   const { camera } = useThree()
   const [listener] = useState(() => new THREE.AudioListener())
   const buffer = useLoader(THREE.AudioLoader, url)
-  const vol = 1 / volAdjust
+  const vol = 2 * (1 / volAdjust)
 
   useEffect(() => {
     sound.current.setBuffer(buffer)
