@@ -1,12 +1,12 @@
 /* eslint-disable react/no-unknown-property */
 import React, { useRef, useState, useEffect } from 'react'
-import { useFrame, useThree } from '@react-three/fiber'
+import { extend, useFrame, useThree } from '@react-three/fiber'
+import { Effects } from '@react-three/drei'
 import { a, useSpring } from '@react-spring/three'
-import * as THREE from 'three'
+import { UnrealBloomPass } from 'three-stdlib'
 
 import Sound from './Sound'
 import Info from './Info'
-import { DoubleSide } from 'three'
 
 function Bird({ position, data: birdData }) {
   const bird = useRef(null)
@@ -78,40 +78,28 @@ function Bird({ position, data: birdData }) {
     spring: birdState.active,
     config: { mass: 5, tension: 400, friction: 50, precision: 0.0001 },
   })
-  const scale = spring.to([0, 1], [1, 5])
+  // const scale = spring.to([0, 1], [0, 1])
   const rotation = spring.to([0, 1], [0, Math.PI])
 
-  //shape setup
+  // texture setup
 
-  function getHeartShape() {
-    const x = 5,
-      y = 5
-
-    const heartShape = new THREE.Shape()
-
-    heartShape.moveTo(x + 5, y + 5)
-    heartShape.bezierCurveTo(x + 5, y + 5, x + 4, y, x, y)
-    heartShape.bezierCurveTo(x - 6, y, x - 6, y + 7, x - 6, y + 7)
-    heartShape.bezierCurveTo(x - 6, y + 11, x - 3, y + 15.4, x + 5, y + 19)
-    heartShape.bezierCurveTo(x + 12, y + 15.4, x + 16, y + 11, x + 16, y + 7)
-    heartShape.bezierCurveTo(x + 16, y + 7, x + 16, y, x + 10, y)
-    heartShape.bezierCurveTo(x + 7, y, x + 5, y + 5, x + 5, y + 5)
-
-    return heartShape
-  }
+  extend({ UnrealBloomPass })
 
   return (
     <a.mesh
       ref={bird}
       position={position}
       rotation-y={rotation}
-      scale-x={scale}
-      scale-z={scale}
+      // scale-x={scale}
+      // scale-z={scale}
       onClick={handleClick}
       visible={birdState.visible ? true : false}
     >
-      <shapeGeometry args={[getHeartShape()]} />
-      <meshStandardMaterial color={'hotpink'} side={DoubleSide} />
+      <Effects disableGamma>
+        <unrealBloomPass threshold={1} strength={1.0} radius={0.5} />
+      </Effects>
+      <boxGeometry args={[1, 1, 1]} />
+      <meshStandardMaterial color={'hotpink'} />
       <Sound url={audioUrl} visible={birdState.visible} vol={1} />
       {/* Not using && because when false, returns a non-null value */}
       {birdState.clicked && birdState.visible ? <Info data={birdData} /> : null}
