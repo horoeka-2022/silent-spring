@@ -3,6 +3,7 @@ import React from 'react'
 function Wait() {
   return (
     <>
+      <br />
       <div>
         <h1>WELCOME TO SILENT SPRING</h1>
         <h2 className="about">
