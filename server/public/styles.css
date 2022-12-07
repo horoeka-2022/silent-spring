@@ -7,7 +7,7 @@ body,
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image:url('./audio/Waves\,\ moss\,\ kawakawa.jpg')
+  background-image:url('./audio/Waves\,\ Sky\,\ Kawakawa_\ up\ kawakawa_\ GRAYSCALE.jpg')
 
 }
 
@@ -24,9 +24,9 @@ body {
   margin-top: 120px;
   padding: 20px 0;
   font-family: 'Noticia Text', serif;
-  color: rgb(184, 147, 219);
+  color: rgba(212, 76, 76, 0.797);
   text-align: center;
-  background-color: rgba(234, 203, 119, 0.5);
+  background-color: rgba(119, 234, 221, 0.5);
 }
 
 .info {
