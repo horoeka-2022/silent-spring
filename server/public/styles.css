@@ -19,13 +19,14 @@ body {
 }
 
 .container {
-  width: 20%;
+  width: 60%;
   margin: 0 auto;
   padding: 8px;
+  font-size:35px;
   font-family: 'Noticia Text', serif;
-  color: rgba(208, 224, 237, 0.809);
+  color: rgba(228, 243, 218, 0.649);
   text-align: center;
-  background-color: rgba(190, 157, 129, 0.75);
+  background-color: rgba(97, 124, 42, 0.735);
   border-radius: 10px;
 
 }
