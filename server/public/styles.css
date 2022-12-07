@@ -80,11 +80,16 @@ p {
   font-size: 240px;
   display: block;
   flex-direction:row; 
+  color: rgba(208, 224, 237, 0.809);
   background-color: rgba(88, 111, 124, 0.75);
-
-  box-shadow: 5px 5px 15px rgbrgba(138, 117, 173, 0.5);
-  padding: 0 60px;
-  border-radius: 30px;
+  border-style: solid;
+  border-radius: 50px;
+  border-width: 30px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 0px;
+   
+  border-color:rgba(208, 224, 237, 0.809);
 
 }
 
